@@ -4,15 +4,14 @@
 <div class="w-100 border-bottom fw-semibold">
   <header class="container d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-1 ">
     <a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
-      <img style="width: 30px; height: 30px;" src="../images/twitter.png" alt="">
+      <img style="width: 45px; height: 45px;" src="../images/logo.png" alt="">
     </a>
 
     <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 d-sm-none d-md-none d-lg-flex">
       <li><a href="/" class="nav-link px-3 link-secondary">Home</a></li>
-      <li><a href="#" class="nav-link px-3 link-dark">Features</a></li>
-      <li><a href="#" class="nav-link px-3 link-dark">Pricing</a></li>
-      <li><a href="#" class="nav-link px-3 link-dark">FAQs</a></li>
       <li><a href="#" class="nav-link px-3 link-dark">About</a></li>
+      <li><a href="#" class="nav-link px-3 link-dark">Term & Policy</a></li>
+
     </ul>
 
     <?php if (isset($_SESSION["userId"])) : ?>
