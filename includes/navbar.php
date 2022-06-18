@@ -9,7 +9,7 @@
 
     <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 d-sm-none d-md-none d-lg-flex">
       <li><a href="/" class="nav-link px-3 link-secondary">Home</a></li>
-      <li><a href="#" class="nav-link px-3 link-dark">About</a></li>
+      <li><a href="../about.php" class="nav-link px-3 link-dark">About</a></li>
       <li><a href="#" class="nav-link px-3 link-dark">Term & Policy</a></li>
 
     </ul>
